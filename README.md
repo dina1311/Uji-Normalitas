@@ -1,4 +1,4 @@
 # Uji-Normalitas
 Bagaimana melakukan uji normalitas pada data yang tidak normal
 
-Lebih lengkap bisa dilihat di blog saya [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+Lebih lengkap bisa dilihat di blog saya [Uji Normalitas] (http://thinkstudioo.blogspot.co.id/2018/05/uji-normalitas-menggunakan-r.html) - Menggunakan R
